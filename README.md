@@ -12,7 +12,7 @@ A partir da versão 1.0.2, o aplicativo verifica novas versões 15 segundos apó
 
 **Ajuda → Verificar atualizações** permite buscar e instalar manualmente, inclusive uma versão adiada ou ignorada. **Ajuda → Avisar automaticamente de novas versões** liga/desliga as verificações automáticas. As preferências ficam salvas no computador. O Windows pode silenciar notificações pelo modo Não incomodar; o menu Ajuda continua indicando a versão disponível. Não há serviço de avisos com o programa fechado.
 
-As configurações e preferências dos painéis permanecem salvas; a senha SQL deve ser informada novamente após reiniciar. Sem internet, o programa continua funcionando localmente. Melhorias passam a ser oferecidas quando publicamos uma nova versão testada.
+As configurações e preferências dos painéis permanecem salvas; a senha SQL deve ser informada novamente após reiniciar. Sem internet, o programa continua funcionando localmente. Novas melhorias são oferecidas após validação técnica, declaração explícita em nossas sessões de que a versão está válida para disponibilização aos clientes e publicação. Cada cliente continua escolhendo se deseja baixar e instalar a atualização.
 
 Este repositório publica somente instaladores e metadados de atualização. O código-fonte é privado. Não envie dados, senhas ou relatórios do ERP aqui.
 
