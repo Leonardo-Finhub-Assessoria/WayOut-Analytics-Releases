@@ -2,6 +2,12 @@
 
 Aplicativo local de consulta ao WayOut ERP. Os dados e a senha SQL permanecem na máquina/rede do cliente.
 
+## Novidades da versão 1.1.1
+
+[Versão 1.1.1 e instalador](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.1.1), com busca no período completo e páginas de 50/100/200 para documentos e recebimentos de compras e grupos de movimentos de estoque. Totais e CSV completos preservados; eventos e grupos continuam separados. A rotina local de validação também confere as novas páginas contra o CSV.
+
+Distribuição autorizada explicitamente em 16/10/2026. SQL real das novas consultas, ativação e homologação independente no ERP continuam pendentes. Download e instalação permanecem opcionais.
+
 ## Novidades da versão 1.1.0
 
 [Versão 1.1.0 e instalador](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.1.0), com as três frentes de evolução de BI:
