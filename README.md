@@ -2,6 +2,16 @@
 
 Aplicativo local de consulta ao WayOut ERP. Os dados e a senha SQL permanecem na máquina/rede do cliente.
 
+## Novidades da versão 1.1.0
+
+[Versão 1.1.0 e instalador](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.1.0), com as três frentes de evolução de BI:
+
+- **Explorador de BI:** tabelas dinâmicas, filtros, detalhamento, CSV e visões locais por origem.
+- **Gestão e alertas:** metas e limites locais, prioridades, responsável, ações e prazos.
+- **Análises e cenários:** tendências com médias móveis, comparação de períodos e hipóteses de caixa com premissas exportáveis.
+
+Distribuição autorizada na sessão de 15/10/2026. Ativação e homologação no ERP de cada cliente continuam sendo conferências separadas. O cliente mantém a escolha de baixar e instalar.
+
 ## Instalação
 
 Baixe o arquivo `WayOut-Analytics-Setup-VERSAO-x64.exe` na [versão mais recente](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/latest) e siga o assistente. Windows 10/11 de 64 bits. Não é necessário instalar Node.js. Abra o atalho WayOut Analytics e configure a conexão de leitura do seu próprio ERP.
