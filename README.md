@@ -2,6 +2,17 @@
 
 Aplicativo local de consulta ao WayOut ERP. Os dados e a senha SQL permanecem na máquina/rede do cliente.
 
+## Novidades da versão 1.1.2
+
+[Baixar a versão 1.1.2](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.1.2), com correções do financeiro:
+
+- Pagar e receber juntos, vencimentos em 7/15 dias, 1/2/3 meses e futuro completo, inclusive após três meses.
+- Preservação de classificações já conferidas na reconexão, atalhos para conferir regras pendentes e contas a pagar consultáveis quando falta vínculo fiscal de receber.
+- Cadastro bancário antes da leitura do histórico quando ainda não existe perfil de saldos; referências históricas continuam identificadas por data.
+- Conferência de páginas corrigida para contagens retornadas como texto pelo driver.
+
+Distribuição autorizada em 20/10/2026. Use **Ajuda → Verificar atualizações** para baixar e depois confirmar **Instalar e reiniciar**. Configurações e preferências são preservadas; após reiniciar, informe novamente a senha SQL. Cada cliente mantém suas próprias regras e evidências; nenhum perfil ou dado do desenvolvimento é distribuído.
+
 ## Novidades da versão 1.1.1
 
 [Versão 1.1.1 e instalador](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.1.1), com busca no período completo e páginas de 50/100/200 para documentos e recebimentos de compras e grupos de movimentos de estoque. Totais e CSV completos preservados; eventos e grupos continuam separados. A rotina local de validação também confere as novas páginas contra o CSV.
