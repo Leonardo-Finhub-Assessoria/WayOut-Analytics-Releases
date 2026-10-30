@@ -1,6 +1,18 @@
 # WayOut Analytics para Windows
 
-Aplicativo local de consulta ao WayOut ERP. Os dados e a senha SQL permanecem na máquina/rede do cliente.
+Aplicativo local de consulta ao WayOut ERP, somente de leitura e com senha SQL apenas em memória. O chatbot local não usa serviço externo. O assistente com IA permite compartilhar, por escolha do usuário, o texto e indicadores agregados preparados com o provedor selecionado.
+
+## Novidades da versão 1.2.0
+
+[Baixar a versão 1.2.0](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.2.0), com Assistente com IA generativa:
+
+- ChatGPT/OpenAI, Gemini, Claude e DeepSeek, com modelo editável e chave de API somente na sessão.
+- Solicitações livres, análises, gráficos interativos e relatórios, com exportação TXT/CSV.
+- Compartilhamento opcional dos indicadores: prepare e confira a prévia antes de enviar. Texto e dados selecionados são transmitidos ao provedor escolhido, usando os créditos e as permissões da própria conta de API.
+- Gráficos de barras/linhas, seleção de séries e tabelas com os valores; respostas de IA precisam ser conferidas com as fontes.
+
+Distribuição autorizada explicitamente em 30/10/2026. Nenhuma chave ou configuração de cliente acompanha o instalador. APIs conferidas com transporte simulado; chamadas reais dependem de uma chave válida e de acesso ao modelo. A publicação não homologa regras/documentos do ERP de cada cliente. Download e instalação continuam opcionais.
+
 
 ## Novidades da versão 1.1.2
 
