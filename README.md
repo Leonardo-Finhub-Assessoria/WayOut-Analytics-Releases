@@ -1,8 +1,20 @@
 # WayOut Analytics para Windows
 
+## Novidades da versão 1.3.0
+
+[Baixar a versão 1.3.0](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.3.0).
+
+- Continue consultando painéis, análises e exportações já carregados após reabrir, sem digitar a senha novamente. A cópia informa a data da carga. Atualizar ou consultar novas seleções exige reconexão com a senha.
+- Em **Explorador de BI → Banco de dados e painéis**, escolha schemas, tabelas e views, configure relações e chaves compostas, dimensões, medidas e filtros.
+- Salve análises/relatórios, reúna-os em painéis e exporte gráficos/tabelas em CSV. O banco ERP permanece somente de leitura; a senha fica apenas em memória.
+- As cópias são locais e separadas por conexão/usuário/regras. A primeira carga exige conexão e não recupera retroativamente sessões anteriores à atualização.
+
+Distribuição autorizada em 13/11/2026. Pacote, instalação local, consultas no SQL real e download pelo atualizador conferidos. Modelos do usuário exigem conferência das regras de negócio. Download e instalação opcionais; nenhuma configuração, credencial ou dado empresarial acompanha o instalador.
+
+
 Aplicativo local de consulta ao WayOut ERP, somente de leitura e com senha SQL apenas em memória. O chatbot local não usa serviço externo. O assistente com IA permite compartilhar, por escolha do usuário, o texto e indicadores agregados preparados com o provedor selecionado.
 
-## Novidades da versão 1.2.0
+## Histórico — versão 1.2.0
 
 [Baixar a versão 1.2.0](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.2.0), com Assistente com IA generativa:
 
