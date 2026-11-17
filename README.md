@@ -1,6 +1,17 @@
 # WayOut Analytics para Windows
 
-## Novidades da versão 1.3.0
+## Novidades da versão 1.4.0
+
+[Baixar a versão 1.4.0](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.4.0).
+
+- Nova aba **Ajuda**, disponível mesmo sem conexão com o ERP, com busca por função/dificuldade e filtro por módulo.
+- **18 vídeos e 65 capítulos**, cerca de 47 minutos de execução da interface com dados fictícios, narração em português, legendas e transcrições.
+- **18 guias em PDF e manual completo de 39 páginas**, com passos e soluções para dificuldades. Os vídeos e documentos acompanham a instalação.
+- Orientações sobre configuração, filtros, exportações, módulos operacionais, BI, gestão, análises, cenários, assistentes e cópia local.
+
+Distribuição e instalação neste desktop autorizadas em 17/11/2026. Pacote, instalação e download público pelo atualizador conferidos. Configurações e preferências preservadas; a senha SQL continua somente em memória. Download e instalação opcionais para cada cliente. As gravações usam ambiente fictício e não homologam as regras do ERP de cada cliente.
+
+## Histórico — versão 1.3.0
 
 [Baixar a versão 1.3.0](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.3.0).
 
