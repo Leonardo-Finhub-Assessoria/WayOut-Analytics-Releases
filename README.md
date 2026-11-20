@@ -1,5 +1,7 @@
 # WayOut Analytics para Windows
 
+**Versão 1.5.0 publicada — 19/11/2026.** [Baixar atualização](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.5.0). Vídeos e PDFs nas páginas dos módulos, perfis locais com senha, recuperação por e-mail e roteiro inicial com progresso salvo. No primeiro acesso após atualizar, crie seu usuário, senha e e-mail de segurança; as configurações e consultas anteriores são preservadas para o primeiro perfil. O envio de recuperação precisa ser configurado em cada instalação; nenhuma credencial de envio acompanha o instalador. Download e instalação continuam opcionais.
+
 ## Novidades da versão 1.4.0
 
 [Baixar a versão 1.4.0](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.4.0).
