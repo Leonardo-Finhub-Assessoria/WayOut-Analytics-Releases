@@ -1,5 +1,11 @@
 # WayOut Analytics para Windows
 
+**Versão 1.6.0 publicada — 24/11/2026.** [Baixar atualização](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.6.0).
+
+Exporte módulos completos, análises e gráficos em **PDF, CSV ou Excel (.xlsx)**. Inclui BI, gestão, cenários e assistente, com filtros, origem e datas identificados. Configurações e perfis preservados; download e instalação opcionais para os clientes.
+
+## Histórico — versão 1.5.1
+
 **Versão 1.5.1 publicada — 24/11/2026.** [Baixar atualização](https://github.com/Leonardo-Finhub-Assessoria/WayOut-Analytics-Releases/releases/tag/v1.5.1).
 
 Na aba **Ajuda**, use **Falar com o suporte pelo WhatsApp** para conversar com o Suporte do WayOut Analytics: **+55 (11) 5192-9175**. O contato também está disponível antes do login. Configurações e perfis preservados; download e instalação opcionais para os clientes.
